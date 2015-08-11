@@ -1,0 +1,8 @@
+[tcp://7004]
+connection_host = dns
+sourcetype = _json
+source = tcp:7004
+tcp://7005]
+connection_host = dns
+sourcetype = _json
+source = tcp:7005
